@@ -7,8 +7,8 @@ smb://192.168.0.222/NAS-server/Movies/Bollywood/Angrezi Medium (2020).mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyOTQ0Mzg2Ml5BMl5BanBnXkFtZTcwMDcyOTM5NA@@._V1_.jpg",Dabangg 2010
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Dabangg 2010.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",3 Idiots
-smb://192.168.0.222/NAS-server/Movies/Bollywood/3 Idiots 2009.mkv
+smb://192.168.0.222/NAS-server/Movies/Bollywood/3 Idiots 2009.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg",Aashiqui 2
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Aashiqui 2.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg",Ae Dil Hai Mushkil
+#EXTINF:-1 ,Ae Dil Hai Mushkil
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ae Dil Hai Mushkil.mkv
