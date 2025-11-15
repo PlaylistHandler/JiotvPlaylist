@@ -14,8 +14,8 @@ smb://192.168.0.222/NAS-server/Movies/Bollywood/Aashiqui 2.mkv
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ae Dil Hai Mushkil.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMDUzMzk0NV5BMl5BanBnXkFtZTgwODczODg4MzE@._V1_.jpg",Baby (2015)
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Baby (2015).mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMDUzMzk0NV5BMl5BanBnXkFtZTgwODczODg4MzE@._V1_.jpg",Baby (2015)
-smb://192.168.0.222/NAS-server/Movies/Bollywood/Baby (2015).mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhY2NjMGItODAyOS00MGVlLTk5ZDYtNzBjMjQ3ZDdkYmZmXkEyXkFqcGc@._V1_.jpg",Bhool Bhulaiyaa 2
+smb://192.168.0.222/NAS-server/Movies/Bollywood/Bhool Bhulaiyaa 2 (2022).mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjMjZiNGUtZjZiNy00Yzg4LWEzYzYtMmI1NDg5NWNiNjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Bajrangi-Bhaijaan
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Bajrangi-Bhaijaan-2015.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTg3NmI5MzQtMjY5Yi00NWRhLThjYjAtNDU4NTQ4YjVhZjZjXkEyXkFqcGc@._V1_.jpg",Batla House
