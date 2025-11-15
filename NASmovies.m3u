@@ -22,3 +22,7 @@ smb://192.168.0.222/NAS-server/Movies/Bollywood/Bajrangi-Bhaijaan-2015.mp4
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Batla House (2019).mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIwNTEwNTItM2M5OC00NzJiLWJkMTItODYxNjk4MWVhMzdiXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",Batti Gul Meter chaalu
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Batti Gul Meter chaalu.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkwOWIzZWMtODM3Ni00NGRiLTg0YmUtZjk2NzMwYzBmNzAzXkEyXkFqcGc@._V1_.jpg",Beiimaan Love
+smb://192.168.0.222/NAS-server/Movies/Bollywood/Beiimaan.Love.2016.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_FMjpg_UX1000_.jpg",Bhaag Milkha Bhaag
+smb://192.168.0.222/NAS-server/Movies/Bollywood/Bhaag Milkha Bhaag 2013.mkv
