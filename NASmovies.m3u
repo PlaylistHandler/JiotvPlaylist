@@ -10,7 +10,7 @@ smb://192.168.0.222/NAS-server/Movies/Bollywood/Dabangg 2010.mkv
 smb://192.168.0.222/NAS-server/Movies/Bollywood/3 Idiots 2009.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg",Aashiqui 2
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Aashiqui 2.mkv
-#EXTINF:-1 ,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_.jpg"Ae Dil Hai Mushkil
+#EXTINF:-1 ,"tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_.jpg"Ae Dil Hai Mushkil
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ae Dil Hai Mushkil.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMDUzMzk0NV5BMl5BanBnXkFtZTgwODczODg4MzE@._V1_.jpg",Baby (2015)
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Baby (2015).mp4
