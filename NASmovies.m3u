@@ -93,7 +93,7 @@ http://103.237.37.181/server1/Movies/Bollywood/2016-2020/Loveyatri%20%282018%29/
 #EXTINF:-1 tvg-name="Laxmii" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWExY2NmZDAtMTRmYS00NjIwLTg1MWMtNDViY2NhZTNmYzVkXkEyXkFqcGc@._V1_.jpg",Laxmii
 http://103.237.37.181/server1/Movies/Bollywood/2016-2020/Laxmii%20%282020%29/Laxmii-2020-1080p-WEBRip_justnirob.mp4
 #EXTINF:-1 tvg-name="Kabir Singh" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQyOWNhOTktODlmNy00NDVkLWE4MTAtYjZlMTg5MzA4ZWY0XkEyXkFqcGc@._V1_.jpg",Kabir Singh
-smb://imab@imab192.168.0.222/NAS-server/Movies/Bollywood/Andhadhun.mp4
+smb://imab@192.168.0.222/NAS-server/Movies/Bollywood/Andhadhun.mp4
 #EXTINF:-1 tvg-name="Sooryavanshi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM2NjcyMTYtZjU1NC00YjAzLWJiZGItNzU4MzU5Y2NiZGRhXkEyXkFqcGc@._V1_.jpg",Sooryavanshi
 http://103.237.37.181/server1/Movies/Bollywood/2021/Sooryavanshi%20%282021%29/Sooryavanshi-2021-1080p-WEBRip_justnirob.mp4
 #EXTINF:-1 tvg-name="Mimi" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU5YjkyODYtNmIzOC00MWY3LWE0ZTUtZWU2MDZhODE3NDE1XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",Mimi
